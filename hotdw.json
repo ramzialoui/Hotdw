@@ -5,6 +5,25 @@
 		"url": "https://github.com/ramzialoui/Hotdw/raw/main/3.jpg",
 		"thumbnail": "https://github.com/ramzialoui/Hotdw/raw/main/3.jpg",
 		"dimensions": "3200x2560",
+		"copyright": "none",
+		"collections": "landscapes"
+	},
+		{
+		"name": "3",
+		"author": "Hotdw",
+		"url": "https://github.com/ramzialoui/Hotdw/raw/main/3.jpg",
+		"thumbnail": "https://github.com/ramzialoui/Hotdw/raw/main/3.jpg",
+		"dimensions": "3200x2560",
+		"copyright": "none",
+		"collections": "landscapes"
+	},
+		{
+		"name": "3",
+		"author": "Hotdw",
+		"url": "https://github.com/ramzialoui/Hotdw/raw/main/3.jpg",
+		"thumbnail": "https://github.com/ramzialoui/Hotdw/raw/main/3.jpg",
+		"dimensions": "3200x2560",
+		"copyright": "none",
 		"collections": "landscapes"
 	},
 ]
