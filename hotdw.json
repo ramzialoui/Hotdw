@@ -1,8 +1,9 @@
-[{
+[
+	{
 		"name": "3",
 		"author": "Hotdw",
-		"url": "https://www.gstatic.com/webp/gallery/4.webp",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
+		"url": "https://raw.githubusercontent.com/ramzialoui/Hotdw/main/3.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/ramzialoui/Hotdw/main/3.jpg",
 		"dimensions": "3200x2560",
 		"copyright": "Hotdw",
 		"collections": "landscapes"
